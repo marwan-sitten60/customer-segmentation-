@@ -1,4 +1,5 @@
 # customer-segmentation-
+# customer-segmentation-
 Project Overview
 
 This project implements customer segmentation using the KMeans clustering algorithm. The goal is to group customers of a mall based on their demographic and behavioral attributes, such as age, gender, annual income, and spending score. The analysis is performed using Python in a Jupyter Notebook, leveraging libraries like pandas, numpy, scikit-learn, matplotlib, and seaborn.
